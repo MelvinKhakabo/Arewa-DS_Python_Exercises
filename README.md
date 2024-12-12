@@ -9,3 +9,11 @@ Module 2 covers Variable in built functions in python.
 
 Module 3
 Module 3 covers Basic python operators useful in Data Science
+
+Module 4
+
+
+Module 5
+
+Module 6
+
