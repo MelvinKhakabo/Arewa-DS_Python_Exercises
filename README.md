@@ -11,9 +11,10 @@ Module 3
 Module 3 covers Basic python operators useful in Data Science
 
 Module 4
-
+Mode 4 contains Strings. A string is a text in python and is usually enclosed using double or single quotation marks.
 
 Module 5
 
 Module 6
 
+Module 7
