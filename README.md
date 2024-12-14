@@ -14,6 +14,7 @@ Module 4
 Mode 4 contains Strings. A string is a text in python and is usually enclosed using double or single quotation marks.
 
 Module 5
+Module 5 contains Lists, Tuples, and Sets in Python.
 
 Module 6
 
