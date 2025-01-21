@@ -2,16 +2,16 @@
 
 My python exercises for Arewa Data Science Fellowship
 
-Module 1 covers basic functions in Python from addition to modulus and floor division. The module progresses to check the different data types as per their class and distinguishes between strings, sets, tuples, lists, and dictionaries.
+Module 1 covers basic functions in Python, from addition to modulus and floor division. The module progresses to checking the data types according to their class and distinguishing between strings, sets, tuples, lists, and dictionaries.
 
 Module 2
-Module 2 covers Variables in built functions in python.
+Module 2 covers Variables inbuilt functions in Python.
 
 Module 3
 Module 3 covers Basic python operators useful in Data Science
 
 Module 4
-Mode 4 contains Strings. A string is a text in Python and is usually enclosed using double or single quotation marks.
+Mode 4 contains Strings. In Python, a string is a text usually enclosed in double or single quotation marks.
 
 Module 5
 Module 5 contains Lists, Tuples, and Sets.
@@ -30,8 +30,6 @@ Module 9 Covers Functions, Lists, and Comprehensions.
 
 Module 10
 Module 10 covers Higher-order Functions in Python.
-Module 5 contains Lists, Tuples, and Sets in Python.
 
-Module 6
 
-Module 7
+
